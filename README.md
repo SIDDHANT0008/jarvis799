@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # For Kavita ❤️ — Princess Day Surprise
 
 Next.js 14 + Framer Motion. All text is in `components/content.js`; photos are `public/images/photo1-10.jpg`.
@@ -18,3 +19,6 @@ Next.js 14 + Framer Motion. All text is in `components/content.js`; photos are `
 - Visit `https://YOUR-SITE.vercel.app/qr` and tap **Download PNG**, or
 - `npm run qr -- https://YOUR-SITE.vercel.app` creates `kavita-surprise-qr.png`.
 Scan it with a phone camera before printing. Never use a localhost URL.
+=======
+# jarvis799
+>>>>>>> 124d800a78eb179f2c42b0c151a8bdef3a2157ab
